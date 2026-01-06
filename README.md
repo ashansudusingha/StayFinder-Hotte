@@ -1,1 +1,1 @@
-# StayFinder-Hotte
+# StayFinder-Hotel Recommendations
